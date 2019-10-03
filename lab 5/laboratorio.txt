@@ -1,0 +1,3 @@
+Aritmetica di macchina. Cancellazione numerica. Esempi di algoritmi instabili.
+
+Esempio di Test d'esame.

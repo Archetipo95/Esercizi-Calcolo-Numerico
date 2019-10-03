@@ -1,0 +1,1 @@
+Esercizi sull'approssimazione ai minimi quadrati e la risoluzione di sistemi lineari mediante metodi diretti.
