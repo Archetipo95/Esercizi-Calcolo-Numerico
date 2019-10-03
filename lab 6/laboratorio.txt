@@ -1,0 +1,7 @@
+Matrici in Matlab, creazione, operazioni, comandi predefiniti che operano con matrici.
+
+Condizionamento dei sistemi lineari.
+
+Calcolo della fattorizzazione LU di una matrice quadrata con il metodo di eliminazione di Gauss (MEG) .
+
+Stabilita' del MEG. Importanza del pivoting.

@@ -1,0 +1,4 @@
+Si consegnino la function richiesta, lo script che risolve l'equazione
+ assegnata con il metodo di Halley e il grafico semilogaritmico con il profilo di convergenza.
+
+Tempo limite di consegna: ore 23 del 17/04/2019
