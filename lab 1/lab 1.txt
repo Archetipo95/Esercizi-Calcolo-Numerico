@@ -1,0 +1,4 @@
+Prima lezione di laboratorio: introduzione a Matlab. Variabili. 
+Funzioni predefinite. Comando format. Matrici. Vettori. Vettori 
+con elementi equispaziati (comando : e comando linspace). 
+Grafici con il comando plot. Definizione di funzioni matematiche.
