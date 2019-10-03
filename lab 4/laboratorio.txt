@@ -1,0 +1,7 @@
+Interpolazione polinomiale. 
+Calcolo del polinomio di interpolazione e valutazione in un punto o vettore di punti.
+ Uso dei comandi polyfit e polyval. Calcolo del polinomio di interpolazione in forma di 
+ Newton alle diiferenze divise. Calcolo delle differenze divise. Valutazione del polinomio
+  di interpolazione usando l'algoritmo di Horner.
+
+Esercizi per casa: studio del fenomeno di Runge.

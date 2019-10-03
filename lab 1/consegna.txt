@@ -1,0 +1,17 @@
+E' compito per la settimana in corso (da svolgere prima del prossimo laboratorio)
+ la risoluzione degli esercizi 3,4,5,6 del foglio di esercizi.  Parte del lavoro 
+ svolto deve essere consegnato tramite questa applicazione perche'  la docente ne 
+ possa prendere visione. In particolare:
+
+ESERCIZIO 5: Si consegni lo script disegna2.m e le figure prodotte con tale script
+ e con lo script disegna.m riguardo alla funzione 3x-cos(x). Le figure devono essere
+  salvate in formato pdf con il comando print, la cui sintassi e' spiegata nei lucidi.
+   Si inserisca il proprio nome, cognome e numero di matricola come titolo delle figure
+    apposto tramite il comando title:
+
+title('Nome Cognome NM')
+
+In caso di dubbio si consulti la help in linea relativa al comando plot.
+
+ESERCIZIO 6:  Lo script Matlab che risolve l'esercizio e la risposta alla domanda, 
+accuratamente giustificata, posta come commento all'interno dello script.

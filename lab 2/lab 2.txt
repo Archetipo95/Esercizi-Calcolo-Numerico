@@ -1,0 +1,7 @@
+Grafici in scala logaritmica.
+
+Matlab come linguaggio di programmazione (cicli for e while, istruzione condizionale, function).
+
+Output a video (disp, fprintf).
+
+Implementazione in Matlab del metodo di bisezione.

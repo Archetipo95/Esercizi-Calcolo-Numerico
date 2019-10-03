@@ -1,0 +1,7 @@
+Si consegnino prima delle ore 23.00 di lunedi' 25/03/2019, 
+la function bisezione.m, lo script scriptbis.m (esercizio 6)
+ e il grafico con il profilo di convergenza del metodo di bisezione
+  nell'approssimazione dell'equazione non lineare dell'esercizio 6 del foglio
+   di esercizi (file chiamato convergenza.pdf).
+
+NOTA BENE:  nel grafico come nei programmi (bisezione.m, scriptbis.m) deve comparire il proprio nome, cognome e numero di matricola.
