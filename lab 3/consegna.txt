@@ -1,0 +1,20 @@
+Esercizi proposti nella terza lezione di laboratorio.
+
+Gli esercizi 1 e 2 sono stati svolti in Laboratorio quasi per completo 
+(manca l'ultimo punto dell'esercizio 2). Da svolgere i rimanenti esercizi 3 e 4 
+e consegnare il lavoro svolto secondo le indicazioni fornite sotto.
+
+Si consegnino prima delle ore 10.00 di MARTEDI' 02/04/2019 i file seguenti 
+relativi all'esercizio 4 del foglio di esercizi della terza settimana:
+1. la function secvar.m,
+2. lo script secvarscript.m
+3. i due  grafici (in formato .pdf) creati dallo script, grafico della 
+funzione e dell'asse x in un intervallo contenente la radice cercata e il
+ grafico con il profilo di convergenza del metodo della Secante nell'approssimazione della stessa.
+4. File con la tabella di risultati prodotta dallo script secvarscript.m 
+come specificato all'ultimo punto dell'esercizio 4.
+Nel grafico come nei programmi (secvar.m, secvarscript.m) deve comparire
+ il proprio nome, cognome e numero di matricola.
+NOTA BENE: Si risponda inoltre all'ultimo punto dell'esercizio 3 introducendo
+ la risposta nello spazio riservato ai commenti alla consegna. Senza questa
+  risposta la consegna verra' ritenuta incompleta.

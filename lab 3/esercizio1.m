@@ -1,0 +1,1 @@
+%vedi funzione newtonfun

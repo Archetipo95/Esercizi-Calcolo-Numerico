@@ -1,0 +1,6 @@
+Implementazione in Matlab del metodo di Newton-Raphson.
+Scrittura a video dei risultati  con formato.
+Convergenza del metodo di Newton in caso di radice multipla.
+Stima della costante asintotica mediante gli scarti.
+
+Esercizio per la settimana: implementazione del metodo della Secante.

@@ -1,0 +1,13 @@
+Si consegnino prima delle 23 ore del giorno 20/04/2019 i seguenti file:
+
+1. script che risolve l'esercizio 4
+
+2. file risequis.txt generato dallo script precedente
+
+3. function chebgauss.m (esercizio 5)
+
+4. script che risolve l'esercizio 6
+
+5. file risCheb.txt generato dallo script precedente
+
+6. Figura (salvata in formato pdf) creata usando il comando subplot che contenga i seguenti due grafici: grafico della funzione di Runge, il suo interpolante calcolato su 32 nodi di Chebyshev, e i punti di interpolazione, e come secondo grafico il grafico dell'errore commesso. Il primo grafico deve avere titolo e legenda opportuni, il secondo deve avere come titolo il proprio nome, cognome e numero di matricola.
