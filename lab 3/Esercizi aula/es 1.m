@@ -10,15 +10,15 @@ else
         x1 = sqrt(-c / a);
         x2 = -x1;
     else
-        diffs = b ^ 2 - 4 * a * c;  % calculate D
-        if diffs < 0
-            error('diffs < 0')
+        delta = b ^ 2 - 4 * a * c;  % calculate D
+        if delta < 0
+            error('Delta < 0')
         else
-            if diffs == 0
+            if delta == 0
                 x1 = -b / (2 * a);  % 2 equals solutions
                 x2 = x1;
             else
-                x1 = (-b - sign(b) * sqrt(diffs)) / (2 * a);  % standard 2-deg equation
+                x1 = (-b - sign(b) * sqrt(delta)) / (2 * a);  % standard 2-deg equation
                 x2 = c / (a * x1);  % clever way to reduce numerical errors
             end
         end

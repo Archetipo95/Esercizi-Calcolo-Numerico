@@ -11,14 +11,14 @@ else
         error('Delta < 0')
     else
         if delta == 0
-            x = -b / (2 * a);  % 2 equals solutions
-            y = x;
+            x1 = -b / (2 * a);  % 2 equals solutions
+            x2 = x1;
         else
-            x = (-b - sign(b) * sqrt(delta)) / (2 * a);  % standard 2-deg equation
-            y = c / (a * x);  % clever way to reduce numerical errors
+            x1 = (-b - sqrt(delta)) / (2 * a);  % standard 2-deg equation
+            x2 = (-b + sqrt(delta)) / (2 * a);
         end
         
         disp('Solution:')
-        x, y
+        x1, x2
     end
 end
